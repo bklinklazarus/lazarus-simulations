@@ -12,7 +12,3 @@ Scripts to simulate sensor behavior by generating synthetic HTML-embedded CSV fi
 python3 generator/generate_sensor_data.py
 ```
 This will regenerate both sample files inside the `samples/` directory.
-
----
-
-Let me know if you want to extend it to simulate multiple sensors or time series gaps!
